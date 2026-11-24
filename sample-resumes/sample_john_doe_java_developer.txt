@@ -1,0 +1,50 @@
+JOHN DOE
+San Francisco, CA | (555) 019-2834 | john.doe@example.com | linkedin.com/in/johndoe | github.com/johndoe
+
+PROFESSIONAL SUMMARY
+Results-driven Full Stack Java Developer with 4+ years of hands-on experience designing and delivering robust, scalable enterprise microservices and modern responsive web applications. Proven track record in optimizing backend performance by 35% and building RESTful APIs using Spring Boot, Hibernate, MySQL, and React.js. Passionate about clean code, automated CI/CD pipelines, and high-performance system architectures.
+
+TECHNICAL SKILLS
+- Programming Languages: Java (8/11/17/21), JavaScript (ES6+), TypeScript, SQL, HTML5, CSS3
+- Frameworks & Libraries: Spring Boot 3, Spring Security, Spring Data JPA, Hibernate, React.js, Redux, Tailwind CSS
+- Databases & Caching: MySQL, PostgreSQL, Redis, H2 Database
+- Tools & DevOps: Git, GitHub, Maven, Docker, Jenkins, Postman, JIRA, Linux/Bash
+- Methodologies: Agile/Scrum, Microservices Architecture, RESTful API Design, Test-Driven Development (TDD)
+
+SOFT SKILLS
+Problem Solving, Team Leadership, Technical Communication, Time Management, Mentoring, Critical Thinking
+
+WORK EXPERIENCE
+Senior Java Software Engineer | CloudScale Solutions Inc.
+June 2022 – Present | San Francisco, CA
+- Architected and deployed 8 core Spring Boot microservices handling over 2.5 million daily requests with 99.98% uptime.
+- Implemented JWT-based role-based authentication and Spring Security filters, safeguarding sensitive corporate user data.
+- Refactored complex MySQL database queries and added Redis caching layer, decreasing average API response latency by 42%.
+- Integrated Apache Kafka event-driven pipelines for real-time order processing and status streaming.
+- Mentored 4 junior software engineers on coding standards, unit testing with JUnit 5/Mockito, and code reviews.
+
+Java Software Developer | NexaTech Innovations
+August 2020 – May 2022 | Austin, TX
+- Developed full-stack features using Java 11, Spring MVC, Hibernate ORM, and React.js for enterprise SaaS clients.
+- Designed 25+ secure RESTful endpoints adhering strictly to OpenAPI 3.0 standards and comprehensive input validation.
+- Automated deployment scripts utilizing Docker containers and GitHub Actions CI/CD workflows, cutting release cycle time by 50%.
+- Conducted unit and integration testing achieving 88% code coverage across all core modules.
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of California, Davis | Graduated May 2020 | GPA: 3.82/4.00
+
+PROJECTS
+Smart Resume Analyzer & ATS Optimizer (Spring Boot 3, React, MySQL, AI)
+- Engineered an end-to-end resume evaluation system featuring explainable ATS scoring, job description keyword matching, and skill gap visualization.
+- Implemented document parsing for PDF and DOCX files using Apache PDFBox and POI with robust section categorization.
+
+Enterprise Inventory Management Microservices (Java 17, Spring Cloud, Docker)
+- Created distributed multi-tenant inventory service with circuit-breakers (Resilience4j) and MySQL replication.
+
+CERTIFICATIONS
+- Oracle Certified Professional: Java SE 11 Developer
+- AWS Certified Solutions Architect – Associate (2023)
+
+LANGUAGES
+English (Native / Fluent), Spanish (Conversational)
